@@ -1,0 +1,4 @@
+c:\users\shaiduck\documents\visual studio 2010\Projects\ProyectoEstudiantesWeb\ProyectoEstudiantesWeb\bin\ProyectoEstudiantesWeb.dll
+c:\users\shaiduck\documents\visual studio 2010\Projects\ProyectoEstudiantesWeb\ProyectoEstudiantesWeb\bin\ProyectoEstudiantesWeb.pdb
+c:\users\shaiduck\documents\visual studio 2010\Projects\ProyectoEstudiantesWeb\ProyectoEstudiantesWeb\obj\Debug\ProyectoEstudiantesWeb.dll
+c:\users\shaiduck\documents\visual studio 2010\Projects\ProyectoEstudiantesWeb\ProyectoEstudiantesWeb\obj\Debug\ProyectoEstudiantesWeb.pdb
