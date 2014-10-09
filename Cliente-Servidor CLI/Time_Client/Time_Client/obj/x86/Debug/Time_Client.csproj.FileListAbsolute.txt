@@ -1,0 +1,5 @@
+c:\users\shaiduck\documents\visual studio 2010\Projects\Time_Client\Time_Client\bin\Debug\Time_Client.exe
+c:\users\shaiduck\documents\visual studio 2010\Projects\Time_Client\Time_Client\bin\Debug\Time_Client.pdb
+c:\users\shaiduck\documents\visual studio 2010\Projects\Time_Client\Time_Client\obj\x86\Debug\Time_Client.exe
+c:\users\shaiduck\documents\visual studio 2010\Projects\Time_Client\Time_Client\obj\x86\Debug\Time_Client.pdb
+C:\Users\Shaiduck\Documents\Visual Studio 2010\Projects\Time_Client\Time_Client\obj\x86\Debug\Time_Client.csprojResolveAssemblyReference.cache
