@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AplicacionHackaton</string>
+    <string name="CambiarUbicacion">Ubicacion</string>
+    <string name="done">Done</string>
+    <string name="reminder">Reminder</string>
+    <string name="edit_message">Edición</string>
+    <string name="nombreinisioSesion">Iniciar Sesion</string>
+    <string name="nombreReportes">Reportes</string>
+    <string name="nombreRecuperaContra">Recuperar contraseña</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnReportar">Reportar</string>
+    <string name="btnNotificacion">Notificacion</string>
+    <string name="btnReportes">Reportes</string>
+    <string name="btnOK">OK</string>
+    <string name="Principal">Principal</string>
+    <string name="Reportar">Reportar</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_notificar">Notificaciones</string>
+    <string name="action_Reportar">Reportar</string>
+    <string name="action_Ubicacion">Ubicación</string>
+    <string name="action_Configuracion">Configuración</string>
+    <string name="action_cerrarsesion">Cerrar Sesión</string>
+    <string name="title_activity_navegacion">Navegacion</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+
+    <string-array name="ventanas">
+        <item>Buscar</item>
+        <item>Notificaciones</item>
+        <item>Reportar</item>
+        <item>Ubicación</item>
+        <item>Cerrar Sesión</item>
+    </string-array>
+
+    <string name="title_activity_navegar">navegar</string>
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <EditText
+
+        android:id="@+id/EtxtReporte"
+        android:background="#ffffd65b"
+        android:hint="Escribe tu reporte"
+        android:layout_height="700px"
+        android:layout_width="990px"
+        android:layout_marginLeft="45px"
+        android:layout_marginTop="60px" />
+
+    <EditText
+        android:id="@+id/EtxtDireccion"
+        android:layout_height="190px"
+        android:layout_width="990px"
+        android:layout_marginLeft="45px"
+        android:layout_marginTop="820px"
+        android:background="#ffffd65b"
+        android:hint="Direccion"
+
+       />
+
+    <Spinner
+        android:layout_height="140px"
+        android:layout_width="607px"
+        android:layout_marginLeft="422px"
+        android:layout_marginTop="1040px"
+        android:id="@+id/spinner"
+        />
+
+    <Button
+        android:layout_height="140px"
+        android:layout_width="175px"
+        android:layout_marginLeft="45px"
+        android:layout_marginTop="1040px"
+        android:id="@+id/btnFoto"
+
+        />
+
+    <Button
+
+        android:id="@+id/btnGaleria"
+        android:layout_height="140px"
+        android:layout_width="175px"
+        android:layout_marginLeft="228px"
+        android:layout_marginTop="1040px"
+         />
+
+
+</RelativeLayout>

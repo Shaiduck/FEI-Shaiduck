@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/fondoregistro"
+    >
+
+
+    <EditText
+        android:id="@+id/Etxtcorreorecupera"
+        android:layout_height="125px"
+        android:layout_width="810px"
+        android:background="#464646"
+        android:hint="Ingresa tu correo"
+        android:layout_marginTop="835px"
+        android:layout_marginLeft="135px"
+
+        android:textColor="#ffffffff" />
+
+    <ImageButton
+        android:layout_width="540px"
+        android:layout_height="155px"
+        android:text="Registrar"
+        android:id="@+id/btnRegistrar"
+        android:layout_marginLeft="270px"
+        android:layout_marginTop="1040px"
+        android:contentDescription=""
+        android:src="@drawable/recuperacontrasena" />
+
+
+
+</RelativeLayout>
