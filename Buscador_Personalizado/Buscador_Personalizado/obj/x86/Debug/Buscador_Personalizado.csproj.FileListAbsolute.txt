@@ -1,0 +1,10 @@
+c:\users\shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\bin\Debug\Buscador_Personalizado.exe.config
+c:\users\shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\bin\Debug\Buscador_Personalizado.exe
+c:\users\shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\bin\Debug\Buscador_Personalizado.pdb
+c:\users\shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\obj\x86\Debug\Buscador_Personalizado.Properties.Resources.resources
+c:\users\shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\obj\x86\Debug\Buscador_Personalizado.csproj.GenerateResource.Cache
+c:\users\shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\obj\x86\Debug\Buscador_Personalizado.exe
+c:\users\shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\obj\x86\Debug\Buscador_Personalizado.pdb
+c:\users\shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\obj\x86\Debug\Buscador_Personalizado.Form1.resources
+c:\users\shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shaiduck\documents\visual studio 2010\Projects\Buscador_Personalizado\Buscador_Personalizado\obj\x86\Debug\Buscador_Personalizado.csprojResolveAssemblyReference.cache
