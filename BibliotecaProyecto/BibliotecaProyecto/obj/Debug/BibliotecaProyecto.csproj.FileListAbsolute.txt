@@ -1,0 +1,4 @@
+c:\users\shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.dll
+c:\users\shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\BibliotecaProyecto\bin\Debug\BibliotecaProyecto.pdb
+c:\users\shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.dll
+c:\users\shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\BibliotecaProyecto\obj\Debug\BibliotecaProyecto.pdb

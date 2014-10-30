@@ -1,0 +1,8 @@
+c:\users\shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\GeneracionEspontanea\bin\Debug\GeneracionEspontanea.exe
+c:\users\shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\GeneracionEspontanea\bin\Debug\GeneracionEspontanea.pdb
+c:\users\shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\GeneracionEspontanea\obj\x86\Debug\GeneracionEspontanea.csprojResolveAssemblyReference.cache
+c:\users\shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\GeneracionEspontanea\obj\x86\Debug\GeneracionEspontanea.exe
+c:\users\shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\GeneracionEspontanea\obj\x86\Debug\GeneracionEspontanea.pdb
+C:\Users\Shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\GeneracionEspontanea\obj\x86\Debug\BibliotecaProyecto.Ventana.resources
+C:\Users\Shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\GeneracionEspontanea\obj\x86\Debug\GeneracionEspontanea.csproj.GenerateResource.Cache
+C:\Users\Shaiduck\documents\visual studio 2010\Projects\BibliotecaProyecto\GeneracionEspontanea\obj\x86\Debug\BibliotecaProyecto.Principal_Seleccion.resources
